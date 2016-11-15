@@ -1,5 +1,9 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Theme - Seti Monokai/scheme/Seti Monokai.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
@@ -20,8 +24,8 @@
 		".git",
 		"node_modules"
 	],
-	"font_face": "Monaco",
-	"font_size": 13,
+	"font_face": "Meslo LG S for Powerline",
+	"font_size": 14,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"line_padding_bottom": 5,
@@ -35,6 +39,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_size": 2,
+	"theme": "Seti_orig.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
